@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+results/*.csv
+results/*.json
+results/*.mp4
+results/*.png
+media/*.mp4
+media/*.png
+
